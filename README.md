@@ -49,7 +49,7 @@ Customize content, styles, and add media as needed
 💡 Perfect for learning responsive design, DOM manipulation, and user interaction using pure JavaScript.
 OUTPUT
 
-
+      <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/a1504fe9-2755-455d-9906-634f27ea85f6" />
 
 
 
