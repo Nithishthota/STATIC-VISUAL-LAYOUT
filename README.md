@@ -46,7 +46,7 @@ Open index.html in a browser
 
 Customize content, styles, and add media as needed
 
-💡 Perfect for learning responsive design, DOM manipulation, and user interaction using pure JavaScript.
+💡 Perfect for learning responsive design, DOM manipulation, and user interaction using pure  JavaScript.
 OUTPUT
 
 
